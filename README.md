@@ -3,14 +3,20 @@
  In this sales data task 1, we were asked to show only employees who are freelancers and equally highlight those whose salaries are above $10,000.
  that was possible possible with the help of SORTING and FILTERING the job types and the salary range.
 
+ 
+
 ![](sales_data_task2.png)
 
  In this sales data task 2, we were asked to split the employees full name into first name and last name.
  then check for duplicate and highlight if there is any. the splitting was equally made possible with the use of CONCAT
 
+
+
  ![](sales_data_task3.png)
  
   In this sales data task 3, we were asked to highlight employees whose name begins with the letter "C" in YELLOW, then format the salary COLUMN such that the highest salary has a GREEN background and the lowest has a RED background. that too was equally possible with the help of CONDITIONAL FORMATING, SORTING AND FILTERING.
+
+
 
   ![](sales_data_task4.png)
   
