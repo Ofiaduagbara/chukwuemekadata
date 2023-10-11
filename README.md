@@ -1,7 +1,7 @@
 ![](sales_data_task1.png)
 
  In this sales data task 1, we were asked to show only employees who are freelancers and equally highlight those whose salaries are above $10,000.
- that was possible possible with the help of SORTING and FILTERING the job types and the salary range.
+ that was possible with the help of SORTING and FILTERING the job types and the salary range.
 
  
 
